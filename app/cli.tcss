@@ -1,0 +1,6 @@
+#output {
+    border: solid gray;
+    background: black;
+    color: white;
+    text-style: none;
+}
